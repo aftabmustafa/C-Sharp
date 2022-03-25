@@ -1,0 +1,8 @@
+D:\Learning\C#\github\C-Sharp\List\bin\Debug\List.exe.config
+D:\Learning\C#\github\C-Sharp\List\bin\Debug\List.exe
+D:\Learning\C#\github\C-Sharp\List\bin\Debug\List.pdb
+D:\Learning\C#\github\C-Sharp\List\obj\Debug\List.csproj.AssemblyReference.cache
+D:\Learning\C#\github\C-Sharp\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C#\github\C-Sharp\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\Learning\C#\github\C-Sharp\List\obj\Debug\List.exe
+D:\Learning\C#\github\C-Sharp\List\obj\Debug\List.pdb

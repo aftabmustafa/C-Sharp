@@ -1,0 +1,8 @@
+D:\Learning\C#\github\C-Sharp\Variables\bin\Debug\Variables.exe.config
+D:\Learning\C#\github\C-Sharp\Variables\bin\Debug\Variables.exe
+D:\Learning\C#\github\C-Sharp\Variables\bin\Debug\Variables.pdb
+D:\Learning\C#\github\C-Sharp\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+D:\Learning\C#\github\C-Sharp\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C#\github\C-Sharp\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+D:\Learning\C#\github\C-Sharp\Variables\obj\Debug\Variables.exe
+D:\Learning\C#\github\C-Sharp\Variables\obj\Debug\Variables.pdb

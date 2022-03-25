@@ -1,0 +1,8 @@
+D:\Learning\C#\github\C-Sharp\C-Sharp\bin\Debug\C-Sharp.exe.config
+D:\Learning\C#\github\C-Sharp\C-Sharp\bin\Debug\C-Sharp.exe
+D:\Learning\C#\github\C-Sharp\C-Sharp\bin\Debug\C-Sharp.pdb
+D:\Learning\C#\github\C-Sharp\C-Sharp\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Learning\C#\github\C-Sharp\C-Sharp\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C#\github\C-Sharp\C-Sharp\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Learning\C#\github\C-Sharp\C-Sharp\obj\Debug\C-Sharp.exe
+D:\Learning\C#\github\C-Sharp\C-Sharp\obj\Debug\C-Sharp.pdb

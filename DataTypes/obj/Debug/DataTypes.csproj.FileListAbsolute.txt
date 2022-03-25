@@ -1,0 +1,8 @@
+D:\Learning\C#\github\C-Sharp\DataTypes\bin\Debug\DataTypes.exe.config
+D:\Learning\C#\github\C-Sharp\DataTypes\bin\Debug\DataTypes.exe
+D:\Learning\C#\github\C-Sharp\DataTypes\bin\Debug\DataTypes.pdb
+D:\Learning\C#\github\C-Sharp\DataTypes\obj\Debug\DataTypes.csproj.AssemblyReference.cache
+D:\Learning\C#\github\C-Sharp\DataTypes\obj\Debug\DataTypes.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C#\github\C-Sharp\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+D:\Learning\C#\github\C-Sharp\DataTypes\obj\Debug\DataTypes.exe
+D:\Learning\C#\github\C-Sharp\DataTypes\obj\Debug\DataTypes.pdb
